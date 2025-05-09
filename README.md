@@ -82,8 +82,8 @@ aws lambda update-function-code --function-name s3_cleanup --zip-file fileb://fu
 
 ## License
 
-MIT License or your project-specific license.
+MIT License
 
 ---
 
-For questions or support, please contact the repository maintainer.
+For questions or support, please contact info@ijabat.org.
